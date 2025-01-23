@@ -421,7 +421,7 @@ def load_test():
         load_model = True
         model_choice = 0
     
-    aa = modelACNN(BATCH_SIZE=16, load_model=load_model, model_type=model_choice, patience=8, delta=0.01)
+    aa = modelACNN(BATCH_SIZE=16, load_model=load_model, model_type=model_choice, patience=10, delta=0.01)
 
     if action == 1:
         optimizers = [

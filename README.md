@@ -20,4 +20,6 @@ To download the files, see download link from outlook:
 https://liveuclac-my.sharepoint.com/:f:/g/personal/zceeahu_ucl_ac_uk/EhaASXe6AplKirwq95r1OnQBUoyULh1FjfikjOb5GiObKg?e=Rres7o
 
 
-Paste the respective files for each task into the same folders.
+Paste the respective models for each task into the same folders.
+
+## Run files using main.py
